@@ -1,0 +1,18 @@
+
+/* line */
+.custom-divider {
+    border: none;
+    height: 20px;
+    background-color: #07D1FF;
+    margin: 20px 0;
+}
+
+/* page title */
+.page-title {
+    text-align: center;
+    font-size: 36px;
+    color: #322D98;
+}
+.stContainer{
+    background-color: #CC6CE7;
+}
