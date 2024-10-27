@@ -33,6 +33,16 @@
 }
 
 .happy-card{
+    border: 1px solid #00F4FF;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #D6FBFD;
+    margin-bottom: 20px;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+.emotion-card{
     border: 1px solid #FFF603;
     border-radius: 5px;
     padding: 10px;
@@ -42,10 +52,11 @@
     height: 100%;
     flex-direction: column;
 }
-.image-container { /* Ganti dengan tinggi yang sama dengan happy-card */
-        display: flex;
-        justify-content: center; /* Memastikan gambar sejajar secara horizontal */
-        align-items: center; /* Memastikan gambar sejajar secara vertikal */
-}
-
+.emotion-card.ahegao { background-color: #ffcccc; }
+.emotion-card.angry { background-color: #ff6666; }
+.emotion-card.happy { background-color: #ffffcc; }
+.emotion-card.neutral { background-color: #e6e6e6; }
+.emotion-card.sad { background-color: #b3c6ff; }
+.emotion-card.surprise { background-color: #ffd966; }
+.emotion-card.unknown { background-color: #e6e6e6; color: #666; }
 

@@ -129,7 +129,7 @@ def main():
                     """,
                     unsafe_allow_html=True
                 )
-            time.sleep(2)  # Menunggu 2 detik sebelum menampilkan elemen berikutnya  # Menunggu 2 detik sebelum menampilkan elemen berikutnya
+            time.sleep(5)  # Menunggu 2 detik sebelum menampilkan elemen berikutnya  # Menunggu 2 detik sebelum menampilkan elemen berikutnya
 
 #########################
 # menjalankan kode main #
