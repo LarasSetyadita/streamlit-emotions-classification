@@ -3,7 +3,7 @@
 .custom-divider {
     border: none;
     height: 20px;
-    background-color: #07D1FF;
+    background-color: #5F3801;
     margin: 20px 0;
 }
 
@@ -15,4 +15,19 @@
 }
 .stContainer{
     background-color: #CC6CE7;
+}
+.card {
+    border: 1px solid #FEE9CB;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+.card h2 {
+    color: #333;
+}
+
+.card p {
+    color: #555;
 }
