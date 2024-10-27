@@ -31,3 +31,9 @@
 .card p {
     color: #555;
 }
+
+.emotion-image-card{
+    width: 100%;
+    height: auto;
+    border-radius: 15px 15px 0 0;
+}
