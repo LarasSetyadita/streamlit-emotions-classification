@@ -40,13 +40,21 @@ def saran_sad():
     st.markdown(
         """
         <div class="card">
-            <h5>Izinkan Diri untuk Merasa</h5>
-            <p>Sadari bahwa kesedihan adalah emosi yang wajar. Izinkan diri Anda 
-            untuk merasakan tanpa rasa bersalah.</p>
-            <h5>Cari Dukungan</h5>
-            <p>Jangan ragu untuk berbicara dengan teman, keluarga, atau profesional 
-            ketika perasaan sedih Anda berlarut-larut. Menerima dukungan dapat 
-            sangat membantu dalam proses penyembuhan.</p>
+            <h5>
+                Izinkan Diri untuk Merasa
+            </h5>
+            <p>
+                Sadari bahwa kesedihan adalah emosi yang wajar. Izinkan diri Anda 
+                untuk merasakan tanpa rasa bersalah.
+            </p>
+            <h5>
+                Cari Dukungan
+            </h5>
+            <p>
+                Jangan ragu untuk berbicara dengan teman, keluarga, atau profesional 
+                ketika perasaan sedih Anda berlarut-larut. Menerima dukungan dapat 
+                sangat membantu dalam proses penyembuhan.
+            </p>
         </div>
         """, unsafe_allow_html=True
     )
@@ -71,15 +79,15 @@ def saran_neutral():
     st.markdown(
         """
         <div class="card">
-            <h5>Ambil Waktu untuk Refleksi</h5>
+            <h5> Ambil Waktu untuk Refleksi </h5>
             <p>Perasaan netral bisa menjadi kesempatan untuk merenungkan apa yang 
             penting bagi Anda. Luangkan waktu untuk menetapkan tujuan baru atau 
             mengevaluasi prioritas hidup Anda.</p>
             
-            <h5>Cobalah Aktivitas Baru</h5>
-            <p>Ketika Anda merasa netral, itu bisa menjadi saat yang tepat untuk 
+            <h5> Cobalah Aktivitas Baru </h5>
+            <p> Ketika Anda merasa netral, itu bisa menjadi saat yang tepat untuk 
             mencoba sesuatu yang baru, baik itu hobi, makanan, atau aktivitas 
-            sosial.</p>
+            sosial. </p>
         </div>
         """, unsafe_allow_html=True
     )
